@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @Samrat-Madake
-- 👀 I’m interested in MERN Stack
-- 🌱 I’m currently learning JAVA, DSA, MERN Stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.linkedin.com/in/samrat-madake
-- ⚡ Fun fact: ...
+# Hi there, I’m Samrat Madake 👋
 
-<!---
-Samrat-Madake/Samrat-Madake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍🎓 About Me
+- **Student** passionate about web development and backend technologies.
+- Always eager to learn, build, and solve real-world problems with code.
+
+## 🛠️ Skills
+- **Languages & Frameworks:** JavaScript, Node.js, Express.js
+- **Databases:** SQL, NoSQL, MongoDB
+
+## 🚀 Featured Project
+### [Mess Management](#)
+A robust solution for managing mess operations, streamlining daily tasks for users and administrators alike.
+
+## 📫 Connect with Me
+- [demo Link](demo Link)
+
+## 📝 Bio
+Demo Bio
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samrat-Madake&show_icons=true&theme=default" alt="Samrat's GitHub stats" />
+</p>
