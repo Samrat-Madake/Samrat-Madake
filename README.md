@@ -13,12 +13,9 @@
 A robust solution for managing mess operations, streamlining daily tasks for users and administrators alike.
 
 ## 📫 Connect with Me
-- [demo Link](demo Link)
+- samratmadake21@gmail.com
 
-## 📝 Bio
-Demo Bio
 
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Samrat-Madake&show_icons=true&theme=default" alt="Samrat's GitHub stats" />
