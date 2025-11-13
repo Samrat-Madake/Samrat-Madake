@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=700&color=FFA500&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mayur+Hiware!;AI+%26+ML+Developer;Full+Stack+Innovator;Problem+Solver+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=700&color=FFA500&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Samrat+Madake!;AI+%26+ML+Developer;Full+Stack+Innovator;Problem+Solver+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -21,9 +21,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayur-hiware/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/mayur.hiware.79/"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&style=for-the-badge" /></a>
-  <a href="mailto:mayurhiware01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&style=for-the-badge" /></a>
-  <a href="https://www.reddit.com/user/Economy_Smell_5481/"><img src="https://img.shields.io/badge/-Reddit-FF4500?logo=Reddit&style=for-the-badge" /></a>
+  <a href="mailto:samratmadake21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -39,10 +37,10 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
 </p>
 
-> 👋 I'm **Mayur Hiware**, an **AI/ML enthusiast**, **full-stack developer**, and **hackathon innovator**.  
+> 👋 I'm **Samrat Madake**, an **AI/ML enthusiast**, **full-stack developer**.
 > 💡 Passionate about blending **data-driven intelligence** with **beautiful user experiences**.  
-> 🥈 Proud **2nd place winner** at **COEP MindSpark’25 Hackathon (Team Vertex)**.  
-> 🌱 Currently exploring **TensorFlow, Node.js, and PostgreSQL**.  
+> 🥈 Proud **Winner** at **Thadomal Hackathon (Team theCooks)**.  
+> 🌱 Currently exploring **MERN DSA**.  
 > 🎯 Mission: Build tools that *think* with you, not just for you.  
 
 ---
