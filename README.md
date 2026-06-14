@@ -140,21 +140,16 @@ fun_fact: "300+ DSA problems solved on LeetCode 🚀"
 </p>
 
 ---
----
 
-# 💬 Quote
-
-<p align="center" style="padding: 10px; border-radius: 10px; background: rgba(255,255,255,0.03); backdrop-filter: blur(3px); border: 1px solid rgba(255,255,255,0.15);">
-  <em>"Its You vs You." </em>
-</p>
-
----
----
+## 💬 Quote
 
 <p align="center">
-  <em>💡 "Building systems that turn data into decisions."</em>
+<img src="3.jpg&theme=radical" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF,00CFFF&height=100&section=footer" />
-</div>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</p>
