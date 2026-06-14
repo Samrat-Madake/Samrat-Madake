@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF,00CFFF&height=200&section=header&text=Samrat%20Madake&fontSize=70&fontColor=FFFFFF&animation=fadeIn" />
 </div>
@@ -58,6 +57,14 @@ fun_fact: "300+ DSA problems solved on LeetCode 🚀"
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge">
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samrat-Madake/Samrat-Madake/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
