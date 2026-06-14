@@ -108,7 +108,8 @@ fun_fact: "300+ DSA problems solved on LeetCode 🚀"
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Samrat1001?ext=contest&theme=dark" />
-
+</p>
+<p align="center">
   <img src="1.gif" width="160">
   <img src="2.gif" width="160">
 </p>
