@@ -45,9 +45,9 @@ fun_fact: "300+ DSA problems solved on LeetCode 🚀"
 
 ---
 
-## 🧩 Tech Stack
+### 🧩 Tech Stack
 
-### 🚀 Languages
+**🚀 Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -56,9 +56,7 @@ fun_fact: "300+ DSA problems solved on LeetCode 🚀"
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
 </p>
 
----
-
-### 🤖 AI / LLM / Agentic AI
+**🤖 AI / LLM / Agentic AI**
 <p align="left">
   <img src="https://img.shields.io/badge/RAG%20Pipelines-FF6F61?style=for-the-badge">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
@@ -70,9 +68,7 @@ fun_fact: "300+ DSA problems solved on LeetCode 🚀"
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge">
 </p>
 
----
-
-### 🌐 Web & Backend
+**🌐 Web & Backend**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -81,18 +77,15 @@ fun_fact: "300+ DSA problems solved on LeetCode 🚀"
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
----
-
-### 🗄️ Databases
+**🗄️ Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge">
 </p>
 
----
-
-### ☁️ Cloud (AWS)
+**☁️ Cloud (AWS)**
 <p align="left">
   <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
   <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
@@ -100,9 +93,7 @@ fun_fact: "300+ DSA problems solved on LeetCode 🚀"
   <img src="https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </p>
 
----
-
-### 🧰 Tools & IDEs
+**🧰 Tools & IDEs**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -110,6 +101,21 @@ fun_fact: "300+ DSA problems solved on LeetCode 🚀"
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
+
+---
+
+### 🏅 LeetCode Stats & Badges
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Samrat1001?ext=contest&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="1.gif" width="160">
+  <img src="2.gif" width="160">
+  <!-- <img src="202508.gif" width="160"> -->
+</p>
+
 ---
 
 ### 🐍 Contribution Snake
