@@ -144,7 +144,7 @@ fun_fact: "300+ DSA problems solved on LeetCode 🚀"
 ## 💬 Quote
 
 <p align="center">
- <img src="3.jpg">
+ <img src="3.jpg", height="200">
 </p>
 
 
