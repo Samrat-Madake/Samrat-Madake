@@ -104,18 +104,22 @@ fun_fact: "300+ DSA problems solved on LeetCode 🚀"
 
 ---
 
-### 🏅 LeetCode Stats & Badges
+### 🏅 LeetCode Stats 
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Samrat1001?ext=contest&theme=dark" />
 </p>
+
+---
+
+
+### 🏅 LeetCode Badges
 <p align="center">
   <img src="1.gif" width="160">
   <img src="2.gif" width="160">
 </p>
 
 ---
-
 ### 🐍 Contribution Snake
 
 <p align="center">
