@@ -139,9 +139,6 @@ fun_fact: "300+ DSA problems solved on LeetCode 🚀"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samrat-Madake&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 💬 Quote
 
 <p align="center">
  <img src="3.jpg", height="200">
