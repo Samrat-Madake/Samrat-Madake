@@ -24,7 +24,7 @@
 name: Samrat Madake
 location: Kolhapur, Maharashtra, India
 education: "B.Tech CSE (Data Science) @ KIT's College of Engineering, Kolhapur"
-cgpa: 8.96 / 10.0
+cgpa: 8.5 / 10.0
 
 currently_building:
   - "Sanjeevani — HIPAA-compliant Healthcare Interoperability Platform (FastAPI, LangGraph, Neo4j, AWS)"
