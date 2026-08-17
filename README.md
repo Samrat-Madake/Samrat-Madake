@@ -28,7 +28,7 @@ cgpa: 8.5 / 10.0
 
 focus: ["RAG Pipelines", "LangChain & LangGraph Agents", "Full Stack (MERN/FastAPI)", "Vector DBs"]
 
-fun_fact: "300+ DSA problems solved on LeetCode 🚀"
+fun_fact: "350+ DSA problems solved on LeetCode 🚀"
 ```
 
 ---
