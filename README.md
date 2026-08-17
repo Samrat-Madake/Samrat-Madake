@@ -26,10 +26,6 @@ location: Kolhapur, Maharashtra, India
 education: "B.Tech CSE (Data Science) @ KIT's College of Engineering, Kolhapur"
 cgpa: 8.5 / 10.0
 
-currently_building:
-  - "Sanjeevani — HIPAA-compliant Healthcare Interoperability Platform (FastAPI, LangGraph, Neo4j, AWS)"
-  - "Campus Mind — Multi-tenant SaaS RAG chatbot platform (FastAPI, Pinecone, AWS, React)"
-
 focus: ["RAG Pipelines", "LangChain & LangGraph Agents", "Full Stack (MERN/FastAPI)", "Vector DBs"]
 
 fun_fact: "300+ DSA problems solved on LeetCode 🚀"
